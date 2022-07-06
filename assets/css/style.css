@@ -17,3 +17,16 @@
 .services h2 {
     text-shadow: 2px 2px 1px #000;
 }
+
+.form {
+    background-image: url('../images/bg-3.jpg');
+    background-position: center bottom;
+    background-size: cover;    
+}
+.form h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+form textarea {
+    resize: none;    
+}
